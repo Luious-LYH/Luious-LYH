@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 120" width="840" height="120" fill="none">
-  <rect width="840" height="120" rx="8" fill="#1E293B" stroke="#0369A1" stroke-width="1.2"/>
-  <text x="50%" y="45%" dominant-baseline="middle" text-anchor="middle" fill="#38BDF8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="600">
-    🐍 Contribution Snake Activity
-  </text>
-  <text x="50%" y="65%" dominant-baseline="middle" text-anchor="middle" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">
-    Will automatically update on GitHub via .github/workflows/snake.yml
-  </text>
-</svg>
