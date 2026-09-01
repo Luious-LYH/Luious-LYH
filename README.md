@@ -1,6 +1,6 @@
 <!-- ============ Capsule Render — Macaron Blue Wave Header ============ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BAE6FD,50:38BDF8,100:0284C7&height=180&section=header&text=Yuhao%20Liu&fontColor=FFFFFF&fontSize=42&fontAlignY=35&desc=Multimodal%20AI%20%7C%20Medical%20Vision%20%7C%20PEFT%20%26%20Adapters&descSize=15&descAlignY=55&descColor=E0F2FE&animation=fadeIn" width="100%" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BAE6FD,50:38BDF8,100:0284C7&height=120&section=header" width="100%" alt="header" />
 </div>
 
 <!-- ============ Hero Image — Ocean Workspace ============ -->
