@@ -5,7 +5,7 @@
 
 <!-- ============ Hero Image — Ocean Workspace ============ -->
 <div align="center">
-  <img src="./assets/workspace-banner.jpg" width="100%" style="max-width: 900px; border-radius: 12px;" alt="workspace" />
+  <img src="./assets/workspace-banner.jpg" width="900" alt="workspace" />
 </div>
 
 <br/>
@@ -37,6 +37,25 @@
 
 ---
 
+<!-- ============ Tech Garden (yuki4266-style animated chip SVGs, blue palette) ============ -->
+<div align="center">
+
+<img src="chips/label-0.svg" alt="MODELS" /> <img src="chips/clip.svg" alt="CLIP" /> <img src="chips/gpt.svg" alt="GPT" /> <img src="chips/gemini.svg" alt="Gemini" /> <img src="chips/llama.svg" alt="Llama" /> <img src="chips/qwen.svg" alt="Qwen" /> <img src="chips/sam.svg" alt="SAM" /> <img src="chips/vit.svg" alt="ViT / DiT" />
+<br/>
+<img src="chips/label-1.svg" alt="VISION" /> <img src="chips/opencv.svg" alt="OpenCV" /> <img src="chips/yolo.svg" alt="YOLO" /> <img src="chips/unet.svg" alt="U-Net" /> <img src="chips/medseg.svg" alt="Med Seg" /> <img src="chips/vqa.svg" alt="VQA" /> <img src="chips/depth.svg" alt="Depth" />
+<br/>
+<img src="chips/label-2.svg" alt="TUNING" /> <img src="chips/lora.svg" alt="LoRA" /> <img src="chips/adapter.svg" alt="Adapter" /> <img src="chips/prompt.svg" alt="Prompt" /> <img src="chips/sft.svg" alt="SFT" /> <img src="chips/dpo.svg" alt="DPO" /> <img src="chips/rag.svg" alt="RAG" /> <img src="chips/agent.svg" alt="Agents" />
+<br/>
+<img src="chips/label-3.svg" alt="DEPLOY" /> <img src="chips/tensorrt.svg" alt="TensorRT" /> <img src="chips/onnx.svg" alt="ONNX" /> <img src="chips/faiss.svg" alt="FAISS" /> <img src="chips/docker.svg" alt="Docker" /> <img src="chips/linux.svg" alt="Linux" /> <img src="chips/git.svg" alt="Git" />
+<br/>
+<img src="chips/label-4.svg" alt="LANG / OPS" /> <img src="chips/python.svg" alt="Python" /> <img src="chips/cpp.svg" alt="C++" /> <img src="chips/typescript.svg" alt="TypeScript" /> <img src="chips/pytorch.svg" alt="PyTorch" /> <img src="chips/cuda.svg" alt="CUDA" /> <img src="chips/latex.svg" alt="LaTeX" />
+
+</div>
+
+<br/>
+
+---
+
 <!-- ============ Featured Research ============ -->
 
 <details open>
@@ -53,45 +72,18 @@
 
 ---
 
-<!-- ============ Tech Garden (SkillIcons — unified, clean) ============ -->
-
-<div align="center">
-
-#### ⚙️ Tech Stack
-
-<img src="https://skillicons.dev/icons?i=py,pytorch,cpp,ts,opencv,docker,linux,git,latex,vscode&theme=light&perline=10" alt="tech stack" />
-
-<br/><br/>
-
-**`VLMs`** · **`CLIP`** · **`LoRA / Adapter`** · **`SFT & DPO`** · **`SAM`** · **`RAG`** · **`TensorRT`** · **`ONNX`** · **`FAISS`** · **`Agentic AI`**
-
-</div>
-
----
-
-<!-- ============ GitHub Stats ============ -->
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Luious-LYH&show_icons=true&hide_border=true&bg_color=00000000&text_color=475569&title_color=0284C7&icon_color=38BDF8&ring_color=0284C7" height="160" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luious-LYH&layout=compact&hide_border=true&bg_color=00000000&text_color=475569&title_color=0284C7" height="160" alt="langs" />
-
-</div>
-
----
-
 <!-- ============ Contribution Snake ============ -->
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Luious-LYH/Luious-LYH/output/github-contribution-grid-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/Luious-LYH/Luious-LYH/output/github-contribution-grid-snake.svg" alt="contribution snake" width="100%" style="max-width: 900px;" />
+    <img src="https://raw.githubusercontent.com/Luious-LYH/Luious-LYH/output/github-contribution-grid-snake.svg" alt="contribution snake" />
   </picture>
 </div>
 
----
-
-<!-- ============ Capsule Render — Footer Wave ============ -->
+<!-- ============ Footer ============ -->
 <div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Luious-LYH&label=Profile%20views&color=38BDF8&style=flat)
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BAE6FD,50:38BDF8,100:0284C7&height=100&section=footer" width="100%" alt="footer" />
 </div>
