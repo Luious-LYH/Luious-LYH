@@ -1,6 +1,6 @@
 <!-- ============ Capsule Render — Macaron Blue Wave Header ============ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BAE6FD,50:38BDF8,100:0284C7&height=120&section=header" width="100%" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BAE6FD,50:38BDF8,100:0284C7&height=120&section=header" width="100%" alt="header" height="80"/>
 </div>
 
 <!-- ============ Hero Image — Ocean Workspace ============ -->
@@ -13,12 +13,15 @@
 <!-- ============ Profile / About Flow ============ -->
 <div align="center">
 
-### Hi there, I'm Yuhao Liu (刘宇豪 / Luious) 👋
+### Hi there, I'm Yuhao Liu (Luious) 👋
 
 🎓 **M.Eng. in Electronic Information (Biomedical Engineering)** @ **Shenzhen University** (SZU)  
-🔬 **Focus**: VLMs · PEFT (Adapter/LoRA) · AI Agents & VQA · Medical Segmentation (SAM/U-Net)  
-🏆 **1st Author** in **IEEE TMM** *(CCF-A Under Review)*, **ICASSP 2026** *(CCF-B Published)*, **IEEE BIBM 2026**  
-🌐 **Academic Homepage**: [luious-lyh.github.io](https://luious-lyh.github.io/) &nbsp;·&nbsp; 🏠 **Personal Portal**: [liuaihub.com](https://www.liuaihub.com/) &nbsp;·&nbsp; 📬 **Email**: [862700320@qq.com](mailto:862700320@qq.com)
+🔬 **Focus**: VLMs · PEFT (Adapter/LoRA) · AI Agents & VQA · Medical Segmentation  
+🏆 **1st Author** in **IEEE TMM** *(CCF-A Under Review)*, **ICASSP 2026** *(CCF-B Published)*, **IEEE BIBM 2026** *(CCF-B Under Review)*  
+🏅 **Honors & Patent**: **ASC25** (2nd Prize) · **CPMCM 2025** (3rd Prize) · 📜 **Patent**: Microkernel LLM Context Manager  
+🏠 **Personal Portal**: [liuaihub.com](https://www.liuaihub.com/) &nbsp;·&nbsp; 🌐 **Academic Homepage**: [luious-lyh.github.io](https://luious-lyh.github.io/) &nbsp;·&nbsp; 📬 **Email**: [862700320@qq.com](mailto:862700320@qq.com)
+
+---
 
 </div>
 
@@ -51,8 +54,8 @@
 <br/>
 
 - 🧠 **[TiBan (题伴)](https://github.com/Luious-LYH/TiBan)** — Agent-native Adaptive QBank & Learning Platform for Practice. A persistent Tutor, RAG, learning memory, FSRS review, Question Factory and model evaluation across Medical / Endoscopy and AI domains.
-- 📊 **[huibao-skill](https://github.com/Luious-LYH/huibao-skill)** — 你说这些事，不就是想让我帮你写周报汇报吗？专属的汇报、日报、周报、月报生成，去帮你做想做的事，去做你想做的人。
-- 🚀 **Open Source & Commits** — 热爱开源与智能体生态，积极参与多模态模型评测 Harness 与 Agent 基础设施建设，持续提交高质量 PR。
+- 📊 **[huibao-skill (汇报Skill)](https://github.com/Luious-LYH/huibao-skill)** — **你做过的事，不该最后只剩一句“已完成”**。不要将时间浪费在：重复的汇报、日报、周报、月报上…. 去做你想做的事 ; 去爱你爱的人。
+- 🚀 **Open Source & Commits** — 热爱开源与Agent生态，积极参与开源项目，持续提交高质量 PR。
 
 </details>
 
@@ -67,7 +70,7 @@
 | :--- | :--- | :--- |
 | **RDFBNet** — Pseudo-Depth Polyp Segmentation | **IEEE TMM** *(CCF-A, Under Review)* | [![Code](https://img.shields.io/badge/-Code-0284c7?style=flat-square&logo=github)](https://github.com/Luious-LYH/RDFBNet) |
 | **EndoCA** — Endoscopic VQA Consistency | **IEEE BIBM 2026** *(CCF-B)* | [![arXiv](https://img.shields.io/badge/-arXiv-b91c1c?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.17834) [![Code](https://img.shields.io/badge/-Code-0284c7?style=flat-square&logo=github)](https://github.com/Luious-LYH/EndoCA-VQA) |
-| **PGA** — Prompt-Guided Adapter | **IEEE ICASSP 2026** *(CCF-B, Published)* | [![IEEE](https://img.shields.io/badge/-IEEE_Xplore-00629B?style=flat-square)](https://ieeexplore.ieee.org/document/11463028/) [![Code](https://img.shields.io/badge/-Code-0284c7?style=flat-square&logo=github)](https://github.com/Luious-LYH/Prompt-Guided-Adapter) |
+| **PGA** — Prompt-Guided Adapter | **IEEE ICASSP 2026** *(CCF-B, Published)* | [![IEEE](https://img.shields.io/badge/-IEEE_Xplore-00629B?style=flat-square)](https://ieeexplore.ieee.org/document/11463028/) |
 
 </details>
 
