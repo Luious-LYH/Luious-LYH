@@ -15,10 +15,12 @@
 
 ### Hi there, I'm Yuhao Liu (Luious) 👋
 
-🎓 **M.Eng. in Electronic Information (Biomedical Engineering)** @ **Shenzhen University** (SZU)  
-🔬 **Focus**: VLMs · PEFT (Adapter/LoRA) · AI Agents & VQA · Medical Segmentation  
+🎓 **M.Eng.** in Electronic Information (Biomedical Engineering) @ **Shenzhen University** (SZU)  
+🔬 **Focus**: VLMs & AI Agents & Post-training & VQA & Medical Segmentation
+
 🏆 **1st Author** in **IEEE TMM** *(CCF-A Under Review)*, **ICASSP 2026** *(CCF-B Published)*, **IEEE BIBM 2026** *(CCF-B Under Review)*  
-🏅 **Honors & Patent**: **ASC25 Supercomputer Challenge** (2nd Prize) · **National Math Modeling** (3rd Prize) · 📜 **1 Invention Patent**  
+🏅 **2nd Prize**: Global Campus AI Algorithm Contest · 🏅 **3rd Prize**: China Robot & AI Competition · 📜 **1 Granted Patent**
+
 🏠 **Personal Portal**: [liuaihub.com](https://www.liuaihub.com/) &nbsp;·&nbsp; 🌐 **Academic Homepage**: [luious-lyh.github.io](https://luious-lyh.github.io/) &nbsp;·&nbsp; 📬 **Email**: [862700320@qq.com](mailto:862700320@qq.com)
 
 ---
