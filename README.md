@@ -18,7 +18,7 @@
 🎓 **M.Eng. in Electronic Information (Biomedical Engineering)** @ **Shenzhen University** (SZU)  
 🔬 **Focus**: VLMs · PEFT (Adapter/LoRA) · AI Agents & VQA · Medical Segmentation  
 🏆 **1st Author** in **IEEE TMM** *(CCF-A Under Review)*, **ICASSP 2026** *(CCF-B Published)*, **IEEE BIBM 2026** *(CCF-B Under Review)*  
-🏅 **Honors & Patent**: **ASC25** (2nd Prize) · **CPMCM 2025** (3rd Prize) · 📜 **Patent**: Microkernel LLM Context Manager  
+🏅 **Honors & Patent**: **ASC25 Supercomputer Challenge** (2nd Prize) · **National Math Modeling** (3rd Prize) · 📜 **1 Invention Patent**  
 🏠 **Personal Portal**: [liuaihub.com](https://www.liuaihub.com/) &nbsp;·&nbsp; 🌐 **Academic Homepage**: [luious-lyh.github.io](https://luious-lyh.github.io/) &nbsp;·&nbsp; 📬 **Email**: [862700320@qq.com](mailto:862700320@qq.com)
 
 ---
