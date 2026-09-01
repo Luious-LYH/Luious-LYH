@@ -22,43 +22,7 @@
 
 </div>
 
----
-
-<!-- ============ Open Source & Community ============ -->
-
-> 💡 **Open-Source Builder & Community Contributor**  
-> Actively designing next-gen Agentic workflows, building multimodal evaluation harnesses, and contributing PRs to open-source LLM/Agent infrastructures and clinical AI benchmarks.
-
 <br/>
-
-<details open>
-<summary><b>🛠️ Highlighted Projects & Agent Systems</b></summary>
-<br/>
-
-| Project | Description & Highlights | Tech Stack | Repository |
-| :--- | :--- | :--- | :--- |
-| **[TiBan (题伴)](https://github.com/Luious-LYH/TiBan)** | Agent-native 跨领域自适应智能题库与备考平台。集成持久化记忆（FSRS）、RAG 知识图谱与动态题目评估工厂。 | `Python` · `FastAPI` · `LangGraph` · `RAG` | [![GitHub](https://img.shields.io/badge/Code-TiBan-0284c7?style=flat-square&logo=github)](https://github.com/Luious-LYH/TiBan) |
-| **[huibao-skill (汇报Agent)](https://github.com/Luious-LYH/huibao-skill)** | 专属智能汇报 Agent 工具，支持日报/周报/月报自动提炼、风险识别与进度跟踪，让开发者专注于真正核心的工作。 | `Python` · `LLM Agent` · `MCP Tool` | [![GitHub](https://img.shields.io/badge/Code-huibao--skill-0284c7?style=flat-square&logo=github)](https://github.com/Luious-LYH/huibao-skill) |
-
-</details>
-
----
-
-<!-- ============ Featured Research ============ -->
-
-<details open>
-<summary><b>📄 Featured Publications & Benchmarks</b></summary>
-<br/>
-
-| Paper / Framework | Venue & Status | Core Contributions | Links |
-| :--- | :--- | :--- | :--- |
-| **RDFBNet** | **IEEE TMM**<br>*(CCF-A / Top 1区 在投)* | 伪深度辅助息肉分割网络，提出差异引导融合（DGF）与边界引导解码（BGD）网络，显著刷新 SOTA 基准。 | [![Code](https://img.shields.io/badge/-Code-0284c7?style=flat-square&logo=github)](https://github.com/Luious-LYH/RDFBNet) |
-| **EndoCA-VQA** | **IEEE BIBM 2026**<br>*(CCF-B 在投 / arXiv)* | 提出内窥镜视觉问答复合-原子答案一致性评估 Benchmark，并设计多任务一致性引导优化策略。 | [![arXiv](https://img.shields.io/badge/-arXiv-b91c1c?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.17834) [![Code](https://img.shields.io/badge/-Code-0284c7?style=flat-square&logo=github)](https://github.com/Luious-LYH/EndoCA-VQA) |
-| **PGA (Prompt Adapter)** | **IEEE ICASSP 2026**<br>*(CCF-B 已中稿正式发表)* | 提示引导适配器架构，结合 CLIP 语义对比 Prompt 生成，在极低推理时延（+36ms）下显著提升下游精度。 | [![IEEE](https://img.shields.io/badge/-IEEE_Xplore-00629B?style=flat-square)](https://ieeexplore.ieee.org/document/11463028/) [![Code](https://img.shields.io/badge/-Code-0284c7?style=flat-square&logo=github)](https://github.com/Luious-LYH/Prompt-Guided-Adapter) |
-
-</details>
-
----
 
 <!-- ============ Tech Garden (yuki4266-style animated blue chip SVGs) ============ -->
 <div align="center">
@@ -78,6 +42,34 @@
 </div>
 
 <br/>
+
+---
+
+<!-- ============ Open Source & Projects ============ -->
+<details open>
+<summary><b>🛠️ Open Source & Projects</b></summary>
+<br/>
+
+- 🧠 **[TiBan (题伴)](https://github.com/Luious-LYH/TiBan)** — Agent-native Adaptive QBank & Learning Platform for Practice. A persistent Tutor, RAG, learning memory, FSRS review, Question Factory and model evaluation across Medical / Endoscopy and AI domains.
+- 📊 **[huibao-skill](https://github.com/Luious-LYH/huibao-skill)** — 你说这些事，不就是想让我帮你写周报汇报吗？专属的汇报、日报、周报、月报生成，去帮你做想做的事，去做你想做的人。
+- 🚀 **Open Source & Commits** — 热爱开源与智能体生态，积极参与多模态模型评测 Harness 与 Agent 基础设施建设，持续提交高质量 PR。
+
+</details>
+
+---
+
+<!-- ============ Featured Research ============ -->
+<details open>
+<summary><b>📄 Featured Research & Publications</b></summary>
+<br/>
+
+| Paper | Venue | Links |
+| :--- | :--- | :--- |
+| **RDFBNet** — Pseudo-Depth Polyp Segmentation | **IEEE TMM** *(CCF-A, Under Review)* | [![Code](https://img.shields.io/badge/-Code-0284c7?style=flat-square&logo=github)](https://github.com/Luious-LYH/RDFBNet) |
+| **EndoCA** — Endoscopic VQA Consistency | **IEEE BIBM 2026** *(CCF-B)* | [![arXiv](https://img.shields.io/badge/-arXiv-b91c1c?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.17834) [![Code](https://img.shields.io/badge/-Code-0284c7?style=flat-square&logo=github)](https://github.com/Luious-LYH/EndoCA-VQA) |
+| **PGA** — Prompt-Guided Adapter | **IEEE ICASSP 2026** *(CCF-B, Published)* | [![IEEE](https://img.shields.io/badge/-IEEE_Xplore-00629B?style=flat-square)](https://ieeexplore.ieee.org/document/11463028/) [![Code](https://img.shields.io/badge/-Code-0284c7?style=flat-square&logo=github)](https://github.com/Luious-LYH/Prompt-Guided-Adapter) |
+
+</details>
 
 ---
 
