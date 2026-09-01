@@ -1,0 +1,4 @@
+*.zip
+_ref/
+scripts/
+.DS_Store

@@ -1,74 +1,83 @@
 <!-- ============ Capsule Render — Macaron Blue Wave Header ============ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BAE6FD,50:38BDF8,100:0284C7&height=180&section=header&text=Yuhao%20Liu&fontColor=FFFFFF&fontSize=42&fontAlignY=35&desc=Multimodal%20AI%20·%20Medical%20Vision%20·%20PEFT%20%26%20Adapters&descSize=16&descAlignY=55&descColor=E0F2FE&animation=fadeIn" width="100%" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BAE6FD,50:38BDF8,100:0284C7&height=180&section=header&text=Yuhao%20Liu&fontColor=FFFFFF&fontSize=42&fontAlignY=35&desc=Multimodal%20AI%20%7C%20Medical%20Vision%20%7C%20PEFT%20%26%20Adapters&descSize=15&descAlignY=55&descColor=E0F2FE&animation=fadeIn" width="100%" alt="header" />
 </div>
 
 <!-- ============ Hero Image — Ocean Workspace ============ -->
 <div align="center">
-  <img src="./assets/workspace-banner.jpg" width="900" alt="workspace" />
+  <img src="./assets/workspace-banner.jpg" width="100%" style="max-width: 900px; border-radius: 12px;" alt="workspace" />
 </div>
 
 <br/>
 
-<!-- ============ Quick Links ============ -->
+<!-- ============ Profile / About Flow ============ -->
 <div align="center">
-  <a href="https://www.liuaihub.com">
-    <img src="https://img.shields.io/badge/Personal_Site-liuaihub.com-0284c7?style=for-the-badge&logo=safari&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://luious-lyh.github.io/">
-    <img src="https://img.shields.io/badge/Academic_Page-luious--lyh.github.io-38bdf8?style=for-the-badge&logo=google-scholar&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:862700320@qq.com">
-    <img src="https://img.shields.io/badge/Email-862700320@qq.com-bae6fd?style=for-the-badge&logo=gmail&logoColor=0c4a6e" />
-  </a>
+
+### Hi there, I'm Yuhao Liu (刘宇豪 / Luious) 👋
+
+🎓 **M.Eng. in Electronic Information (Biomedical Engineering)** @ **Shenzhen University** (SZU)  
+🔬 **Focus**: VLMs · PEFT (Adapter/LoRA) · AI Agents & VQA · Medical Segmentation (SAM/U-Net)  
+🏆 **1st Author** in **IEEE TMM** *(CCF-A Under Review)*, **ICASSP 2026** *(CCF-B Published)*, **IEEE BIBM 2026**  
+🌐 **Academic Homepage**: [luious-lyh.github.io](https://luious-lyh.github.io/) &nbsp;·&nbsp; 🏠 **Personal Portal**: [liuaihub.com](https://www.liuaihub.com/) &nbsp;·&nbsp; 📬 **Email**: [862700320@qq.com](mailto:862700320@qq.com)
+
 </div>
-
-<br/>
-
-<!-- ============ About (concise) ============ -->
-
-```text
-🧑‍💻  M.Eng. student @ Shenzhen University · Researching VLMs, PEFT & Medical Image Perception
-🔬  1st-author papers at IEEE TMM (CCF-A), ICASSP 2026 (CCF-B), IEEE BIBM 2026
-🌐  Building AI-powered tools & multimodal systems for clinical applications
-```
 
 ---
 
-<!-- ============ Tech Garden (yuki4266-style animated chip SVGs, blue palette) ============ -->
-<div align="center">
+<!-- ============ Open Source & Community ============ -->
 
-<img src="chips/label-0.svg" alt="MODELS" /> <img src="chips/clip.svg" alt="CLIP" /> <img src="chips/gpt.svg" alt="GPT" /> <img src="chips/gemini.svg" alt="Gemini" /> <img src="chips/llama.svg" alt="Llama" /> <img src="chips/qwen.svg" alt="Qwen" /> <img src="chips/sam.svg" alt="SAM" /> <img src="chips/vit.svg" alt="ViT / DiT" />
-<br/>
-<img src="chips/label-1.svg" alt="VISION" /> <img src="chips/opencv.svg" alt="OpenCV" /> <img src="chips/yolo.svg" alt="YOLO" /> <img src="chips/unet.svg" alt="U-Net" /> <img src="chips/medseg.svg" alt="Med Seg" /> <img src="chips/vqa.svg" alt="VQA" /> <img src="chips/depth.svg" alt="Depth" />
-<br/>
-<img src="chips/label-2.svg" alt="TUNING" /> <img src="chips/lora.svg" alt="LoRA" /> <img src="chips/adapter.svg" alt="Adapter" /> <img src="chips/prompt.svg" alt="Prompt" /> <img src="chips/sft.svg" alt="SFT" /> <img src="chips/dpo.svg" alt="DPO" /> <img src="chips/rag.svg" alt="RAG" /> <img src="chips/agent.svg" alt="Agents" />
-<br/>
-<img src="chips/label-3.svg" alt="DEPLOY" /> <img src="chips/tensorrt.svg" alt="TensorRT" /> <img src="chips/onnx.svg" alt="ONNX" /> <img src="chips/faiss.svg" alt="FAISS" /> <img src="chips/docker.svg" alt="Docker" /> <img src="chips/linux.svg" alt="Linux" /> <img src="chips/git.svg" alt="Git" />
-<br/>
-<img src="chips/label-4.svg" alt="LANG / OPS" /> <img src="chips/python.svg" alt="Python" /> <img src="chips/cpp.svg" alt="C++" /> <img src="chips/typescript.svg" alt="TypeScript" /> <img src="chips/pytorch.svg" alt="PyTorch" /> <img src="chips/cuda.svg" alt="CUDA" /> <img src="chips/latex.svg" alt="LaTeX" />
-
-</div>
+> 💡 **Open-Source Builder & Community Contributor**  
+> Actively designing next-gen Agentic workflows, building multimodal evaluation harnesses, and contributing PRs to open-source LLM/Agent infrastructures and clinical AI benchmarks.
 
 <br/>
+
+<details open>
+<summary><b>🛠️ Highlighted Projects & Agent Systems</b></summary>
+<br/>
+
+| Project | Description & Highlights | Tech Stack | Repository |
+| :--- | :--- | :--- | :--- |
+| **[TiBan (题伴)](https://github.com/Luious-LYH/TiBan)** | Agent-native 跨领域自适应智能题库与备考平台。集成持久化记忆（FSRS）、RAG 知识图谱与动态题目评估工厂。 | `Python` · `FastAPI` · `LangGraph` · `RAG` | [![GitHub](https://img.shields.io/badge/Code-TiBan-0284c7?style=flat-square&logo=github)](https://github.com/Luious-LYH/TiBan) |
+| **[huibao-skill (汇报Agent)](https://github.com/Luious-LYH/huibao-skill)** | 专属智能汇报 Agent 工具，支持日报/周报/月报自动提炼、风险识别与进度跟踪，让开发者专注于真正核心的工作。 | `Python` · `LLM Agent` · `MCP Tool` | [![GitHub](https://img.shields.io/badge/Code-huibao--skill-0284c7?style=flat-square&logo=github)](https://github.com/Luious-LYH/huibao-skill) |
+
+</details>
 
 ---
 
 <!-- ============ Featured Research ============ -->
 
 <details open>
-<summary><b>📄 Featured Research</b></summary>
+<summary><b>📄 Featured Publications & Benchmarks</b></summary>
 <br/>
 
-| Paper | Venue | Links |
-| :--- | :--- | :--- |
-| **RDFBNet** — Pseudo-Depth Polyp Segmentation | **IEEE TMM** *(CCF-A, Under Review)* | [![Code](https://img.shields.io/badge/-Code-0284c7?style=flat-square&logo=github)](https://github.com/Luious-LYH/RDFBNet) |
-| **EndoCA** — Endoscopic VQA Consistency | **IEEE BIBM 2026** *(CCF-B)* | [![arXiv](https://img.shields.io/badge/-arXiv-b91c1c?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.17834) [![Code](https://img.shields.io/badge/-Code-0284c7?style=flat-square&logo=github)](https://github.com/Luious-LYH/EndoCA-VQA) |
-| **PGA** — Prompt-Guided Adapter | **IEEE ICASSP 2026** *(CCF-B, Published)* | [![IEEE](https://img.shields.io/badge/-IEEE_Xplore-00629B?style=flat-square)](https://ieeexplore.ieee.org/document/11463028/) [![Code](https://img.shields.io/badge/-Code-0284c7?style=flat-square&logo=github)](https://github.com/Luious-LYH/Prompt-Guided-Adapter) |
+| Paper / Framework | Venue & Status | Core Contributions | Links |
+| :--- | :--- | :--- | :--- |
+| **RDFBNet** | **IEEE TMM**<br>*(CCF-A / Top 1区 在投)* | 伪深度辅助息肉分割网络，提出差异引导融合（DGF）与边界引导解码（BGD）网络，显著刷新 SOTA 基准。 | [![Code](https://img.shields.io/badge/-Code-0284c7?style=flat-square&logo=github)](https://github.com/Luious-LYH/RDFBNet) |
+| **EndoCA-VQA** | **IEEE BIBM 2026**<br>*(CCF-B 在投 / arXiv)* | 提出内窥镜视觉问答复合-原子答案一致性评估 Benchmark，并设计多任务一致性引导优化策略。 | [![arXiv](https://img.shields.io/badge/-arXiv-b91c1c?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.17834) [![Code](https://img.shields.io/badge/-Code-0284c7?style=flat-square&logo=github)](https://github.com/Luious-LYH/EndoCA-VQA) |
+| **PGA (Prompt Adapter)** | **IEEE ICASSP 2026**<br>*(CCF-B 已中稿正式发表)* | 提示引导适配器架构，结合 CLIP 语义对比 Prompt 生成，在极低推理时延（+36ms）下显著提升下游精度。 | [![IEEE](https://img.shields.io/badge/-IEEE_Xplore-00629B?style=flat-square)](https://ieeexplore.ieee.org/document/11463028/) [![Code](https://img.shields.io/badge/-Code-0284c7?style=flat-square&logo=github)](https://github.com/Luious-LYH/Prompt-Guided-Adapter) |
 
 </details>
+
+---
+
+<!-- ============ Tech Garden (yuki4266-style animated blue chip SVGs) ============ -->
+<div align="center">
+
+<img src="chips/label-0.svg" alt="LLMS" /> <img src="chips/claude.svg" alt="Claude" /> <img src="chips/googlegemini.svg" alt="Gemini" /> <img src="chips/deepseek.svg" alt="DeepSeek" /> <img src="chips/qwen.svg" alt="Qwen" /> <img src="chips/meta.svg" alt="Llama" /> <img src="chips/mistralai.svg" alt="Mistral" />
+<br/>
+<img src="chips/label-1.svg" alt="AGENTS" /> <img src="chips/langgraph.svg" alt="LangGraph" /> <img src="chips/langchain.svg" alt="LangChain" /> <img src="chips/llamaindex.svg" alt="LlamaIndex" /> <img src="chips/crewai.svg" alt="CrewAI" /> <img src="chips/modelcontextprotocol.svg" alt="MCP" /> <img src="chips/dify.svg" alt="Dify" /> <img src="chips/n8n.svg" alt="n8n" />
+<br/>
+<img src="chips/label-2.svg" alt="INFERENCE" /> <img src="chips/ollama.svg" alt="Ollama" /> <img src="chips/vllm.svg" alt="vLLM" /> <img src="chips/huggingface.svg" alt="Hugging Face" /> <img src="chips/openrouter.svg" alt="OpenRouter" /> <img src="chips/gradio.svg" alt="Gradio" /> <img src="chips/streamlit.svg" alt="Streamlit" />
+<br/>
+<img src="chips/label-3.svg" alt="RAG / DATA" /> <img src="chips/qdrant.svg" alt="Qdrant" /> <img src="chips/milvus.svg" alt="Milvus" /> <img src="chips/postgresql.svg" alt="pgvector" /> <img src="chips/redis.svg" alt="Redis" /> <img src="chips/supabase.svg" alt="Supabase" />
+<br/>
+<img src="chips/label-4.svg" alt="LANG / OPS" /> <img src="chips/python.svg" alt="Python" /> <img src="chips/typescript.svg" alt="TypeScript" /> <img src="chips/pytorch.svg" alt="PyTorch" /> <img src="chips/fastapi.svg" alt="FastAPI" /> <img src="chips/docker.svg" alt="Docker" /> <img src="chips/kubernetes.svg" alt="Kubernetes" />
+<br/>
+<img src="chips/label-5.svg" alt="TUNING" /> <img src="chips/clip.svg" alt="CLIP" /> <img src="chips/sam.svg" alt="SAM" /> <img src="chips/lora.svg" alt="LoRA" /> <img src="chips/adapter.svg" alt="Adapter" /> <img src="chips/prompt.svg" alt="Prompt" /> <img src="chips/sft.svg" alt="SFT" /> <img src="chips/dpo.svg" alt="DPO" />
+
+</div>
+
+<br/>
 
 ---
 
